@@ -1,0 +1,12 @@
+player1 just join the game
+player2 just join the game
+player1 just draw a story card, its         SQ_BH   _2_2
+player2 just draw a story card, its         SQ_BH   _2_2
+ask player1 if sonsor
+ask player1 if sonsor
+ask player1 if sonsor
+player1 accept to sponsor the story
+sponsor choose card
+sponsor choose card QuestsFoes_05_05_05_Thieves
+sponsor choose card
+sponsor choose card QuestsFoes_15_15_05_Robber*QuestsWeap_05_05_02_Dagger

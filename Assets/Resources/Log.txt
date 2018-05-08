@@ -1,0 +1,18 @@
+player1 just join the game
+player2 just join the game
+player3 just join the game
+player1 just draw a story card, its         SQ_BH   _2_1
+player2 just draw a story card, its         SQ_BH   _2_1
+player3 just draw a story card, its         SQ_BH   _2_1
+ask player1 if sonsor
+ask player1 if sonsor
+ask player1 if sonsor
+ask player1 if sonsor
+ask player1 if sonsor
+player3 just draw a story card, its         ST_AO_2
+player2 just draw a story card, its         SQ_STD  _3_1
+ask player1 if sonsor
+ask player1 if sonsor
+player2 just draw a story card, its         SQ_TOTGK_4_1
+ask player1 if sonsor
+ask player1 if sonsor
